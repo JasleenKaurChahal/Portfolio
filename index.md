@@ -1,6 +1,71 @@
 ﻿# Project Name/Title Goes Here
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
+```
+from twitchio.ext import commands
+import random
+import sched, time
+
+
+class Bot(commands.Bot):
+    def __init__(self):
+        # Initialise our Bot with our access token, prefix and a list of channels to join on boot...
+        super().__init__(token='oauth:a47vhfexb2e2roryfpoh01c51iax0o', prefix='!', initial_channels=['hypercoolness30'])
+        s = sched.scheduler(time.time, time.sleep)
+        def likeSub(sc): 
+            print("Remember to drop a sub and like!")
+            sc.enter(2, 1, likeSub, (sc,))
+
+        s.enter(2, 1, likeSub, (s,))
+        s.run() 
+        self.msg()
+            
+
+    async def event_ready(self):
+        # We are logged in and ready to chat and use commands...
+        print(f'Logged in as | {self.nick}')
+        print(f'User id is | {self.user_id}')
+    async def event_message(self, message):
+            # Messages with echo set to True are messages sent by the bot...
+            # For now we just want to ignore them...
+            if message.echo:
+                return
+
+            # Print the contents of our message to console...
+            print(message.content)
+
+            # Since we have commands and are overriding the default `event_message`
+            # We must let the bot know we want to handle and invoke our commands...
+            await self.handle_commands(message)
+
+    @commands.command()
+    async def hello(self, ctx: commands.Context):
+        # Send a hello back!
+        await ctx.send(f'Hello {ctx.author.name}!')
+    @commands.command()
+    async def randomNum(self, ctx: commands.Context):
+        num = random.randint(0, 10)
+        print(num)
+        #send a random number between 1-10
+        await ctx.send(f'random #: {num}!')
+        
+    @commands.command()
+    async def msg(self, ctx: commands.Context):
+        print("222")
+        await ctx.send(f'222')
+        
+        #ctx.send(f'Remember to drop a sub and like!')
+            # do your stuff
+        #sc.enter(2, 1, likeSub, (sc,))
+
+    #s.enter(2, 1, likeSub, (s,))
+    #s.run()
+
+bot = Bot()
+bot.run()
+
+```
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
