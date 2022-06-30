@@ -2,6 +2,20 @@
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 ```
+def __init__(self):
+        # Initialise our Bot with our access token, prefix and a list of channels to join on boot...
+        super().__init__(token='oauth:a47vhfexb2e2roryfpoh01c51iax0o', prefix='!', initial_channels=['hypercoolness30'])
+        s = sched.scheduler(time.time, time.sleep)
+        def likeSub(sc): 
+            print("Remember to drop a sub and like!")
+            sc.enter(2, 1, likeSub, (sc,))
+
+        s.enter(2, 1, likeSub, (s,))
+        s.run() 
+        self.msg()
+```
+
+```
 from twitchio.ext import commands
 import random
 import sched, time
