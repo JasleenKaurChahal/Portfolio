@@ -133,3 +133,13 @@ This is a table containing all the items needed for milestone one and the roboti
 kjsdkjfdl
 dnskhjdf
 ```
+
+| Item | Qty | Price | Where to Buy |
+| ------------- | ------------- | ------------- | ------------- |
+| Breadboard  | 1 |  $6.75  | https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO |
+| Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
+| Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
+| Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
+| LED | 5 | $3.05 | https://www.digikey.com/en/products/detail/rohm-semiconductor/SLR-56VR3F/636992?utm_adgroup=Optoelectronics&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Rohm%20Semiconductor_0846_Co-op&utm_term=&utm_content=Optoelectronics&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2FU9rfIXor1_ovmAyZNrv5uUknvSMhgKXuGtCSr881k_zyMmj8_gUkaAgbUEALw_wcB |
+| Buzzer | 1 | $0.84 | https://www.digikey.com/en/products/detail/myntahl-dba-east-electronics/TFM-59DA-5/12817555?utm_adgroup=MYNTAHL%20DBA%20EAST%20ELECTRONICS&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_DK%2BSupplier_Tier%202%20-%20Block%201&utm_term=&utm_content=MYNTAHL%20DBA%20EAST%20ELECTRONICS&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2HrQSkjrz0rbGsENKaMcKiDCeonQmNptcHSXycSjm9Z3pzBGmE4yYgaAv-HEALw_wcB
+| UltraSonic | 1 | 3.95 | https://www.digikey.com/en/products/detail/adafruit-industries-llc/3942/9658069?utm_adgroup=Temperature%20Sensors%20-%20NTC%20Thermistors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Sensors%2C%20Transducers_NEW&utm_term=&utm_content=Temperature%20Sensors%20-%20NTC%20Thermistors&gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2GRJr-YuEC5TYBnVz52mJ3fxJ0dQcGTH9WjiTcOlsTtiYiEeHZa5gUaAh4VEALw_wcB
