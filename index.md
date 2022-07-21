@@ -113,3 +113,17 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 ```
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+
+# Bill of Materials 
+
+This is a table containing all the items needed for milestone one and the robotic arm. It contains the item, quantity, price, and where to buy the item.
+
+| Item | Qty | Price | Where to Buy |
+| ------------- | ------------- | ------------- | ------------- |
+| Adeept Robotic Arm Kit  | 1  | $64.99  | https://www.amazon.com/dp/B087R8DLG6 |
+| Breadboard  | 1 |  $6.75  | https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO |
+| Potentiometer  | 1 | $1.85  |  https://www.tubesandmore.com/products/potentiometer-alpha-linear-38-bushing  |
+| Micro Servo | 1 | $5.95 | https://www.adafruit.com/product/169  |
+| Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
+| Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
+| Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
