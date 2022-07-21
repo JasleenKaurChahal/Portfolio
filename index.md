@@ -127,3 +127,12 @@ This is a table containing all the items needed for milestone one and the roboti
 | Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
 | Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
 | Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
+
+# Code for Processing
+
+``` 
+code 
+jhhl
+dkjhklfsdjl
+
+```
