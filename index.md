@@ -126,6 +126,8 @@ This is a table containing all the items needed for milestone one and the roboti
 | Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
 | Arduino IDE  | 1  | $0  | https://www.arduino.cc/en/software/ |
 
+<a href="https://ibb.co/zGdwbRW"><img src="https://i.ibb.co/Pwk84hs/IMG-4680-1.jpg" alt="IMG-4680-1" border="0"></a><br /><a target='_blank' href='https://emoticoncentral.com/category/dansu'>dansu smileys</a><br />
+
 # Code for Processing
 
 ``` 
