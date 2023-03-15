@@ -1,5 +1,46 @@
-﻿# Robot Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Jasleen Chahal
+A Graduate student pursuing MS in Data Science from the University of Michigan (graduating in April 2023) with three years of experience in Software Development and looking forward to full-time job opportunities in the field of Data Science, Front-end or Full-stack Development.
+
+# Educational History
+MS in Data Science, University of Michigan (GPA: 3.87)          Sept 2021 - Apr. 2023
+BE in Computer Science, Chikara University (GPA: 3.87)      	July 2016 - July 2020
+
+
+# Experience
+
+## 1. Magna International Inc. (Auburn Hills, MI), Software Engineering Intern   Sep 2022-Present
+Developing Object-oriented software for multi-core embedded systems (ADAS)
+Supporting testing, verification, and integration for embedded hardware systems.
+Developing  automated analysis/reporting methods using Python/MATLAB scripting/Batch.
+Debugging, DDR testing, MIPI Analysis and verification of ECU using CANalyzer tool.
+Flashing the latest software on ECU using Lauterbach, vFlash and Vector CAN Box.
+Updating code on Jenkins, Gitlab and PTC.
+
+## 2. BlueStamp Engineering (Palo Alto, Remote), Engineering Instructor             June 2022 - Aug 2022
+Developed Microcontrollers and Python programming projects.
+Circuit design, Firmware development and IoT project development.
+Mentored six classes of students to complete their engineering prototypes.
+Taught design process, debugging, troubleshooting and proper tool use to students.
+Led project development presentations and engineering documentation.
+
+## 3. Master’s in Data Science (UofM), Graduate Student                                        Sep 2021 - Present
+Built Sales Marketing Prediction Project using regression analysis, clustering, classification.
+Developing Big Data,Deep Learning, AI, Data security/Privacy, MOR & Google Cloud projects.
+
+## 4. GeekyAnts Pvt Ltd, Software Developer                                                         June 2020 - Aug 2021
+Developed mobile applications using React Native and Flutter.
+Led the technical presentations of the project with clients. 
+Designed UI, API integration, and State management for application development.
+Performed Unit testing for applications.
+
+## 5. GeekyAnts Pvt Ltd, Software Developer Intern                                             Mar 2019 - May 2020
+Developed several client projects like Taxi App, Music, Food Delivery Apps.
+Coded for React, Flutter, React Native projects.
+Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
+Led project management through GitLab, Github, JiraBoard and client meetings.
+
+
+
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3BvrV7_TUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
