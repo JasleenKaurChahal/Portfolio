@@ -72,54 +72,56 @@ Description:
 
 1. Visual Abductive Reasoning | (Current) 
         A data science project for Deep Learning based on Computer Vision and Pattern Recognition. 
-        Spatio-Temporal Trajectory Similarity Learning in Road Networks (Current)  - Implementation of data Mining project using Machine learning model.
         
-2. MCE and ECE MIAShield implementation on Location-30 dataset (Dec 2022): 
+2. Spatio-Temporal Trajectory Similarity Learning in Road Networks  | (Current) 
+         Implementation of data Mining project using Machine learning model.
+        
+3. MCE and ECE MIAShield implementation on Location-30 dataset | (Dec 2022): 
         Implementing MIAShield against MIA
         
-3. Dating App | (April 2022) – 
+4. Dating App | (April 2022)
         A react native app for finding people around the campus. The app uses google cloud services from Google Cloud like storage, App Engine, Google Cloud                 functions, BigTable and firebase.
         
-4. Sales Market Prediction Project I (December 2021)
+5. Sales Market Prediction Project I (December 2021)
         A project for predicting sales of a supermarket using Big Data analytics & Visualization, python, regression, clustering, and classification.
         
-5. Music App | (May 2021)
+6. Music App | (May 2021)
         React native app for showing music tracks as carousels and log-in flows. This app  contains features like in-app purchases, selecting tracks, profile,               settings, log-in, and sign-up flow. This app also uses Zustand and AWS for the backend.
         
-6. Restaurant App | (March 2021)
+7. Restaurant App | (March 2021)
         React Native app UI for a Restaurant chain having features like selecting from the menu,adding in the cart, and order booking flow.
         
-7. Banking App | (July 2020) 
+8. Banking App | (July 2020) 
         A React Native app for all banking problems, making investments, and following upon the savings. This app also uses Kotlin.
         
-8. Taxi App | (Jan 2020) 
+9. Taxi App | (Jan 2020) 
         An app for booking taxis along with features of Instagram like adding posts and searching for people to follow. This app was built using React Native.
         
-9. An app for following celebrities and posting about their life events I (Sep 2019) 
+10. An app for following celebrities and posting about their life events I (Sep 2019) 
         A Mobile app using React-Native and Mobx State Tree for state management. The app is based on the interaction of Fans with Stars through Live Streaming and           uses Firebase and Rest-API calls.
         
-10. App for watching wrestling matches and to follow athletes | (May 2019)
+11. App for watching wrestling matches and to follow athletes | (May 2019)
         A React-Native app using Redux Thunk for state management. The app uses Firebase and API calls.
         
-11. Instagram Clone I (March 2019)
+12. Instagram Clone I (March 2019)
         Instagram clone app using React Native with MobX.
         
-12. PG-Finder I (January 2019)
+13. PG-Finder I (January 2019)
         A website for finding accommodation in a region. A user can book the accommodation and edit various options while choosing one. Technologies used - Node,             MongoDB, EIS, HTML, and JS.
         
-13. Book Tracking App I (December 2018)
+14. Book Tracking App I (December 2018)
         A book tracking app using ReactJS where a user can search a book   as well as place it on one of the shelves - currently reading, wish to read, and finished         reading. Technology used - ReactJS.
         
-14. Snake Game | (September 2018)
+15. Snake Game | (September 2018)
         Developed using arrays in C++ and Data Structures. The snake’s size increases as it consumes food and game ends when it forms any closed loop.
         
-15. Maze Game I (March 2018)
+16. Maze Game I (March 2018)
          C++ and Data Structures project
 
-16. Arduino Based Walkie Talkie Coding | (April 2016) 
+17. Arduino Based Walkie Talkie Coding | (April 2016) 
         Arduino-based Walkie Talkie and Intercom for inter- communication during university events covering a range of about 10 m, as a cheaper                               alternative for original Walkie Talkies.
        
-17. Website-Top Universities Around the Globe | (June 2016)
+18. Website-Top Universities Around the Globe | (June 2016)
         A website designed using HTML, CSS, and JavaScript depicting the best universities in the world.
 
 
