@@ -11,48 +11,61 @@ A Graduate student pursuing MS in Data Science from the University of Michigan (
 
 # Experience
 
-## 1.   Software Engineering Intern   
-       *Magna International Inc. (Auburn Hills, MI)*
+## 1.   Software Engineering Intern 
+<strong>Magna International Inc. (Auburn Hills, MI)</strong>                                 
         Sep 2022-Present
-       <p>
-                •	Developing Object-oriented software for multi-core embedded systems (ADAS)
+```
+Description:
+                •       Developing Object-oriented software for multi-core embedded systems (ADAS)
                 •       Supporting testing, verification, and integration for embedded hardware systems.
-                •      Developing  automated analysis/reporting methods using Python/MATLAB scripting/Batch.
-                •      Debugging, DDR testing, MIPI Analysis and verification of ECU using CANalyzer tool.
-                •      Flashing the latest software on ECU using Lauterbach, vFlash and Vector CAN Box.
-                •      Updating code on Jenkins, Gitlab and PTC.
-         </p>
+                •       Developing  automated analysis/reporting methods using Python/MATLAB scripting/Batch.
+                •       Debugging, DDR testing, MIPI Analysis and verification of ECU using CANalyzer tool.
+                •       Flashing the latest software on ECU using Lauterbach, vFlash and Vector CAN Box.
+                •       Updating code on Jenkins, Gitlab and PTC.
+```
 
 ## 2.   Engineering Instructor             
-        BlueStamp Engineering (Palo Alto, Remote), 
+<strong>BlueStamp Engineering (Palo Alto, Remote)</strong><br>
         June 2022 - Aug 2022
+```
+Description:
                 •      Developed Microcontrollers and Python programming projects.
                 •      Circuit design, Firmware development and IoT project development.
                 •      Mentored six classes of students to complete their engineering prototypes.
                 •      Taught design process, debugging, troubleshooting and proper tool use to students.
                 •      Led project development presentations and engineering documentation.
+```                
 
 ## 3.   Graduate Student     
-        Master’s in Data Science (UofM), 
+<strong>Master’s in Data Science (UofM)</strong> <br>
         (Sep 2021 - Present)
+```
+Description:
                 •      Built Sales Marketing Prediction Project using regression analysis, clustering, classification.
                 •      Developing Big Data,Deep Learning, AI, Data security/Privacy, MOR & Google Cloud projects.
+```
 
 ## 4.   Software Developer 
-        GeekyAnts Pvt Ltd, 
+<strong>GeekyAnts Pvt Ltd</strong><br>
         (June 2020 - Aug 2021)
+```
+Description:
                 •      Developed mobile applications using React Native and Flutter.
                 •      Led the technical presentations of the project with clients. 
                 •      Designed UI, API integration, and State management for application development.
                 •      Performed Unit testing for applications.
+```
 
 ## 5.   Software Developer Intern 
-        GeekyAnts Pvt Ltd,
+<strong>GeekyAnts Pvt Ltd</strong><br>
         Mar 2019 - May 2020
+```
+Description:
                 •      Developed several client projects like Taxi App, Music, Food Delivery Apps.
                 •      Coded for React, Flutter, React Native projects.
                 •      Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
                 •      Led project management through GitLab, Github, JiraBoard and client meetings.
+```
 
 
 # Project Experience
