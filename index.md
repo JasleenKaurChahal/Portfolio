@@ -12,14 +12,16 @@ A Graduate student pursuing MS in Data Science from the University of Michigan (
 # Experience
 
 ## 1.   Software Engineering Intern   
-        Magna International Inc. (Auburn Hills, MI)
-        Sep 2022-Present
+        *Magna International Inc. (Auburn Hills, MI)*
+ ##     Sep 2022-Present
+        ```
                 •	Developing Object-oriented software for multi-core embedded systems (ADAS)
                 •       Supporting testing, verification, and integration for embedded hardware systems.
                 •      Developing  automated analysis/reporting methods using Python/MATLAB scripting/Batch.
                 •      Debugging, DDR testing, MIPI Analysis and verification of ECU using CANalyzer tool.
                 •      Flashing the latest software on ECU using Lauterbach, vFlash and Vector CAN Box.
                 •      Updating code on Jenkins, Gitlab and PTC.
+         ```
 
 ## 2.   Engineering Instructor             
         BlueStamp Engineering (Palo Alto, Remote), 
