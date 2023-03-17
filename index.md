@@ -1,8 +1,9 @@
 ﻿# Jasleen Chahal
 A Graduate student pursuing MS in Data Science from the University of Michigan (graduating in April 2023) with three years of experience in Software Development and looking forward to full-time job opportunities in the field of Data Science, Front-end or Full-stack Development.
 
-```
+
 # Educational History
+```
         MS in Data Science, University of Michigan (GPA: 3.87)          Sept 2021 - Apr. 2023
         BE in Computer Science, Chikara University (GPA: 3.87)      	July 2016 - July 2020
 ```
