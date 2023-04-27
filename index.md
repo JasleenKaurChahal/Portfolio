@@ -1,4 +1,6 @@
-﻿# Jasleen Chahal
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+# Jasleen Chahal
 A Graduate student pursuing MS in Data Science from the University of Michigan (graduating in April 2023) with three years of experience in Software Development and looking forward to full-time job opportunities in the field of Data Science, Front-end or Full-stack Development.
 
 
