@@ -6,7 +6,7 @@ A Graduate student pursuing MS in Data Science from the University of Michigan (
 
 # Educational History
 ```
-        MS in Data Science, University of Michigan (GPA: 3.87)          Sept 2021 - Apr. 2023
+        MS in Data Science, University of Michigan (GPA: 3.90)          Sept 2021 - Apr. 2023
         BE in Computer Science, Chikara University (GPA: 3.87)      	July 2016 - July 2020
 ```
 
@@ -128,7 +128,16 @@ Description:
 
 
 
+# Extra-curricular activities and Achievements
 
+  • Bagged Second Rankin State Level Science Exhibition (2015-2016)
+  • President's List- Four semesters, Dean's List- Four semesters
+  • Event Coordinator for UNICEF club in the university
+  • Academic Organizations Representative for SOAC (Student Organization Advisory Council)
 
+# Strength 
 
-
+  • Strong project management, problem-solving, and analytical thinking skills.
+  • Ability to develop strong, working relationships across all levels and deliver solid results.
+  • Excellent verbal and written communication skills; ability to communicate clearly and effectively to all levels of the organization.
+  • Passion for design and product.
