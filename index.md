@@ -16,15 +16,25 @@ A Graduate student pursuing MS in Data Science from the University of Michigan (
 ## 1.   Software Engineering Intern 
 <strong>Magna International Inc. (Auburn Hills, MI)</strong>                                 
         Sep 2022-Present
-```
-Description:
-  •  Developing Object-oriented software for multi-core embedded systems (ADAS)
-  •  Supporting testing, verification, and integration for embedded hardware systems.
-  •  Developing  automated analysis/reporting methods using Python/MATLAB scripting/Batch.
-  •  Debugging, DDR testing, MIPI Analysis and verification of ECU using CANalyzer tool.
-  •  Flashing the latest software on ECU using Lauterbach, vFlash and Vector CAN Box.
-  •  Updating code on Jenkins, Gitlab and PTC.
-```
+
+- Developed object-oriented software for multi-core embedded systems, focusing on ADAS and SVS.
+- Supported testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
+- Developed automated analysis and reporting methods using Python, MATLAB scripting, and Batch to improve efficiency and accuracy of testing.
+- Debugged, performed DDR testing, MIPI analysis, and verified ECU using CANalyzer tool to identify and resolve issues.
+- Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
+- Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
+- Contributed to the development of high-quality software products using software engineering principles and practices.
+- Collaborated with cross-functional teams to achieve project goals and meet deadlines.
+- Demonstrated strong problem-solving skills and attention to detail to identify and troubleshoot software issues.
+- Utilized excellent communication skills to effectively document and present findings to team members and management.
+- Demonstrated a strong work ethic, adaptability, and willingness to learn in a fast-paced work environment.
+- Learned and became proficient in different technical areas, including object-oriented software development, real-time embedded development for multi-core and multi-processor systems, development for multiple operating systems (Linux, Windows), cyber security/product protections, image/signal processing, image/data fusion, and application development to support test and verification.
+- Joined a team of software professionals, implementing cutting-edge technologies on both existing and new development products related to autonomous driving.
+- Performed all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
+- Supported scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
+- Debugged real-time ADAS safety-critical applications.
+
+
 
 ## 2.   Engineering Instructor             
 <strong>BlueStamp Engineering (Palo Alto, Remote)</strong><br>
