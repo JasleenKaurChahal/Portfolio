@@ -1,2 +1,19 @@
+
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jasleen Kaur Chahal
+title: Software Engineer/Software Developer (M.S, B.S)
+email: chahaljasleen18@gmail.com
+website: https://jasleenkaurchahal.github.io/Resume/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
 # theme: jekyll-theme-cayman
 # markdown: kramdown
